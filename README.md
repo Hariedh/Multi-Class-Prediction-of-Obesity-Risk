@@ -19,6 +19,12 @@ LightGBM (Light Gradient Boosting Machine) is a highly efficient gradient boosti
 
 XGBoost (Extreme Gradient Boosting) is a scalable and high-performance gradient boosting library. It implements machine learning algorithms under the gradient boosting framework, providing high accuracy and speed. XGBoost is known for its robustness to overfitting, regularization techniques, and support for parallelization, which makes it a popular choice in many competitive machine learning tasks.
 
+
+**Models and it's Accuracy**
+
+![image](https://github.com/Hariedh/Multi-Class-Prediction-of-Obesity-Risk/assets/110299340/0251f3fc-244a-46c0-9562-7b0d0deb2383)
+
+
 **To install the requirements**
 
 pip install -r requirements.txt
